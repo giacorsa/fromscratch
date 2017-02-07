@@ -1,2 +1,0 @@
-# fromscratch
-test laravel project
